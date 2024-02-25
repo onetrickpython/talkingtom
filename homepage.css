@@ -6,7 +6,7 @@
 .stylebanner{
     width: 100%;
     height: 100vh;
-    background-image: url(gamefirstpage.png);
+    background-image: url(game.png);
     background-size: cover;
     background-position: center;
 }
